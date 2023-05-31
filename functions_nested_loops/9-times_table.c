@@ -1,11 +1,15 @@
 #include "main.h"
 
 /**
-  * times_table - Prints the 9 times table, starting with 0
-  * Description: It prints 9 times table starting with 0
-  * Return: void
-  */
-void times_table(void)
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+	times_table();
+	return (0);
+}
 {
 	int x, y, z, u, d;
 
