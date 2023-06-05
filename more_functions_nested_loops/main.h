@@ -1,6 +1,6 @@
 #ifndef HEADER_H
 #define HEADER_H
 
-int _isdigit(int c);
+int mul(int a, int b);
 
 #endif
