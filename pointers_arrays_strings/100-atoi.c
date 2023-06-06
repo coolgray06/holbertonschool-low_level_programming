@@ -6,7 +6,7 @@
  * Retrun: A integer value of the converted string
  */
 
-int _atoi(char *s)
+int _atoi(char *s);
 {
 	int c = 0;
 	unsigned int ni = 0;
