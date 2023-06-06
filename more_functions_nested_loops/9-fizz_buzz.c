@@ -20,8 +20,9 @@ int main(void)
 			printf("Buzz");
 		else
 			printf("%d", x);
+		printf(" ");
 	}
-	printf("Buzz\n");
+	printf("\n");
 
 	return (0);
 }
