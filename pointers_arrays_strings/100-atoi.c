@@ -3,11 +3,10 @@
 /**
  * _atoi - Convert a string to an integer
  * @s: The pointer to convert
- * Retrun: A integer
+ * Retrun: A integer value of the converted string
  */
 
 int _atoi(char *s)
-
 {
 	int c = 0;
 	unsigned int ni = 0;
@@ -18,7 +17,7 @@ int _atoi(char *s)
 	{
 	if (s[c] == 45)
 	{
-	min *= - 1;
+	min *= -1;
 	}
 	while (s[c] >= 48 && s[c] <= 57)
 	{
