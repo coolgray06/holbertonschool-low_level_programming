@@ -11,9 +11,10 @@
 char *_strcat(char *dest, char *src)
 
 {
-	int dlen = 0, i;
+	int dlen = 0; 
+	int i = 0;
 
-	while (dest[dlen])
+	while (dest[dlen] != '\0')
 	{
 		dlen++;
 	}
