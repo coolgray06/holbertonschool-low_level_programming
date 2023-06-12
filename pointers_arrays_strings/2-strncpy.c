@@ -6,8 +6,7 @@
  * @dest: The buffer storing the string copy.
  * @src: the source string.
  * @n: The maximum number of bytes copied from src.
- * @Return: A pointer to the resulting string dest.
- *
+ * @Return: 0.
  */
 
 char *_strncpy(char *dest, char *src, int n)
