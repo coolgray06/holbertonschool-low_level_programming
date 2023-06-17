@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m 'keep on, keeping on'
+git push
