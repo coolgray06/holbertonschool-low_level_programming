@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m 'back at it'
+git push
