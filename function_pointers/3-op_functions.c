@@ -14,7 +14,7 @@ int op_mod(int a, int b);
  * Return: Sum
  */
 
-int opp_add(int a, int b)
+int op_add(int a, int b)
 {
 	int c;
 
