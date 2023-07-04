@@ -5,6 +5,7 @@
  * int_index - Function that searches for an integer.
  * @size: Number of elements in the array
  * @cmp: Compare functions
+ * @array: Array compared
  * Return: Element space in which the comparison returns true
  */
 
